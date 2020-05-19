@@ -1,6 +1,6 @@
 ## This is an RGB Memory Game
 
-### Technologied used
+### Technologies used
 
 - Css Grid
 - JavaScript
